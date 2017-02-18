@@ -1,0 +1,12 @@
+# Compiled classes
+*.class
+target
+
+# Eclipse files
+.project
+.classpath
+.settings
+
+# IntelliJ files
+.idea
+*.iml
